@@ -5,3 +5,6 @@
 ### Deliverable 1: Scape Full Resolution Mars Hemisphere Images and Titles
 
 ![](https://github.com/AB3478/Mission-to-Mars/blob/f182eb1379b5bc06272ede80de44cde6a7d02ade/Resources/Deliverable_1.png)
+
+### Deliverable 2: Update the Web App with Mars’s Hemisphere Images and Titles
+
